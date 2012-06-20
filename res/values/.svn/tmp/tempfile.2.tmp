@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, WorkinatorActivity!</string>
+    <string name="app_name">Workinator</string>
+    <string name="search_prompt">Select an exercise type</string>
+    <string-array name="search_array">
+        <item>Neck</item>
+        <item>Shoulders</item>
+        <item>Arms</item>
+        <item>Back</item>
+        <item>Chest</item>
+        <item>Abdominal</item>
+        <item>Hips</item>
+        <item>Thighs</item>
+        <item>Calves</item>
+    </string-array>
+    
+    <string name="exercise_prompt">Select an exercise</string>
+    <string name="reps_prompt">Select number of reps</string>
+    
+    <string-array name="reps_array">
+        <item>3x</item>
+        <item>5x</item>
+        <item>10x</item>
+        <item>15x</item>
+        <item>20x</item>
+        <item>30x</item>
+    </string-array>
+    
+    <string-array name="neck_array">
+        <item>Lever lateral left neck flexion</item>
+        <item>Lever lateral right neck flexion</item>
+        <item>Lever neck extension</item>
+        <item>Lever neck flexion</item>
+    </string-array>
+    
+    <string name="Lever_lateral_left_neck_flexion">Lever lateral left neck flexion\n\n<b>Preparation</b>\n\nSit on seat in machine. Position padded lever on side of head. Center body so neck is in line with lever axis. Grasp handles for support.\n\n<b>Execution</b>\n\nMove head down to side by laterally flexing neck. Return head to opposite side and repeat. Sit in machine backwards and continue with opposite side.</string>
+    <string name="Lever_lateral_right_neck_flexion">Lever lateral right neck flexion\n\n<b>Preparation</b>\n\nSit on seat in machine. Position padded lever on side of head. Center body so neck is in line with lever axis. Grasp handles for support.\n\n<b>Execution</b>\n\nMove head down to side by laterally flexing neck. Return head to opposite side and repeat. Sit in machine backwards and continue with opposite side.</string>
+    <string name="Lever_neck_extension">Lever neck extension\n\n<b>Preparation</b>\n\nSit on seat in machine. Place back of head under padded lever. Position body so neck is in line with lever axis. Grasp handles for support.\n\n<b>Execution</b>\n\nMove head back by hyperextending neck. Return by bending neck forward until chin touches upper chest. Repeat.</string>
+    <string name="Lever_neck_flexion">Lever neck flexion\n\n<b>Preparation</b>\n\nSit on seat in machine. Position padded lever on face. Position body so neck is in line with lever axis. Grasp handles for support.\n\n<b>Execution</b>\n\nMove head forward by flexing neck until chin touches upper chest. Return head by hyperextending neck and repeat.</string>
+    
+    <string-array name="shoulder_array">
+        <item>Arnold press</item>
+        <item>Barbell front raise</item>
+        <item>Cable face pull</item>
+        <item>Cable side raise</item>
+        <item>Dumbbell pull</item>
+        <item>Dumbbell side raise</item>
+        <item>Jumping jack</item>
+        <item>Push press</item>
+    </string-array>
+    
+    <string name="Arnold_press">Arnold press\n\n<b>Preparation</b>\n\nStand with two dumbbells position in front of shoulders, palms facing body and elbows under wrists.\n\n<b>Execution</b>\n\nInitiate movement by bringing elbows out to sides. Continue to raise elbows outward while pressing dumbbells overhead until arms are straight. Lower to front of shoulders in opposite pattern and repeat.</string>
+    <string name="Barbell_front_raise">Barbell front Raise\n\n<b>Preparation</b>\n\nGrasp barbell with overhand grip with elbows straight or slightly bent.\n\n<b>Execution</b>\n\nRaise barbell forward and upward with until upper arms are above horizontal. Lower and repeat.</string>
+    <string name="Cable_face_pull">Cable face pull\n\n<b>Preparation</b>\n\nAttach a rope to the high pulley of a cable station (or a lat pulldown station) and grab an end with each hand. Back a few steps away from the weight stack until your arms are straight in front of you.\n\n<b>Execution</b>\n\nIn one movement, pull the middle of the rope toward your eyes as you flare your elbows out, bend your arms, and squeeze your shoulder blades together. (Your hands should end up in line with your ears.) Pause, then reverse the movement back to the start.</string>
+    <string name="Cable_side_raise">Cable side raise\n\n<b>Preparation</b>\n\nWith low pulleys to each side, grasp left stirrup with right hand and right stirrup with left hand. Stand upright.\n\n<b>Execution</b>\n\nWith elbows slightly bent, raise arms to side until elbows are shoulder height. Lower and repeat.</string>
+    <string name="Dumbbell_pull">Dumbbell pull\n\n<b>Preparation</b>\n\nLie upper back perpendicular on bench. Flex hips slightly. Grasp one dumbbell from behind or from side with both hands under inner plate of dumbbell. Position dumbbell over chest with elbows slightly bent.\n\n<b>Execution</b>\n\nKeeping elbows slightly bent throughout movement, lower dumbbell over and beyond head until upper arms are in-line with torso. Pull dumbbell up and over chest. repeat.</string>
+    <string name="Dumbbell_side_raise">Dumbbell side raise\n\n<b>Preparation</b>\n\nGrasp dumbbells in front of thighs with elbows slightly bent. Bend over slightly with hips and knees bent slightly.\n\n<b>Execution</b>\n\nRaise upper arms to sides until elbows are shoulder height. Maintain elbows\' height above or equal to wrists. Lower and repeat.</string>
+    <string name="Jumping_jack">Jumping jack\n\n<b>Preparation</b>\n\nStand with feet together, knees slightly bent, and arms to sides.\n\n<b>Execution</b>\n\nJump while raising arms and separating legs to sides. Land on forefoot with legs apart and arms overhead. Jump again while lower arms and returning legs to midline. Land on forefoot with arms and legs in original position and repeat.</string>
+    <string name="Push_press">Push press\n\n<b>Preparation</b>\n\nGrasp barbell from rack or clean barbell from floor with overhand grip, slightly wider than shoulder width. Position bar chest high with torso tight. Retract head back.\n\n<b>Execution</b>\n\nDip body by bending knees, hips and ankles slightly. Explosively drive upward with legs, driving barbell up off shoulders, vigorously extending arms overhead. Return to shoulders and repeat.</string>
+    
+    <string-array name="arm_array">
+        <item>Angled prone curl</item>
+        <item>Bench dip</item>
+        <item>Cable biceps curl</item>
+        <item>Diamond push up</item>
+        <item>Drag curl</item>
+        <item>Explosive push up</item>
+        <item>Hammer curl</item>
+        <item>Lying biceps curl</item>
+        <item>Zottman curl</item>
+    </string-array>
+    
+    <string name="Angled_prone_curl">Angled prone curl\n\n<b>Preparation</b>\n\nIncline a bench toward the 45-degree angle mark. Grab two dumbbells with an underhand grip (as illustrated) and lean against the bench.\n\n<b>Execution</b>\n\nCurl the weights slowly straight up. Your wrists should always be fixed, resist twisting them, and keep your upper arms perpendicular to the floor.</string>
+    <string name="Bench_dip">Bench dip\n\n<b>Preparation</b>\n\nSit on inside of one of two benches placed parallel, slightly less than leg\'s length away. Place hands on edge of bench. Straighten arms, slide rear end off of edge of bench and position heels on adjacent bench with legs straight. Have assistant place weight on lap near hips.\n\n<b>Execution</b>\n\nLower body by bending arms until slight stretch is felt in chest or shoulder, or rear end touches floor. Raise body and repeat.</string>
+    <string name="Cable_biceps_curl">Cable biceps curl\n\n<b>Preparation</b>\n\nGrasp low pulley cable bar with shoulder width under hand grip. Stand close to pulley.\n\n<b>Execution</b>With elbows to side, raise bar until forearms are vertical. Lower until arms are fully extended. Repeat. \n\n</string>
+    <string name="Diamond_push_up">Diamond push-up\n\n<b>Execution</b>\n\nDo a pushup with your hands close enough for the tips of your thumbs and index fingers to touch, forming a diamond shape.</string>
+    <string name="Drag_curl">Drag curl\n\n<b>Preparation</b>\n\nGrasp bar with shoulder width under hand grip.\n\n<b>Execution</b>\n\nRaise barbell straight up so elbows travel back as elbows flex. Follow contour of hips and waist. As elbows continues to flex, begin bringing elbows forward when forearms rises past horizontal position. Continue upward over chest until forearms are perpendicular. Lower until arms are fully extended. Repeat.</string>
+    <string name="Explosive_push_up">Explosive push-up\n\n<b>Execution</b>\n\nAssume a pushup position. Bend your elbows and lower your body. Press yourself up so forcefully that your hands leave the floor.</string>
+    <string name="Hammer_curl">Hammer curl\n\n<b>Preparation</b>\n\nPosition two dumbbells to sides, palms facing in, arms straight.\n\n<b>Execution</b>\n\nWith elbows to sides, raise one dumbbell until forearm is vertical and thumb faces shoulder. Lower to original position and repeat with alternative arm.</string>
+    <string name="Lying_biceps_curl">Lying biceps curl\n\n<b>Preparation</b>\n\nLie flat on your back on a mat in front of the low-pulley weight stack with your feet flat against the frame of the pulley machine, keeping your legs straight. Using both hands, grab a small cable bar and attach it to the low pulley machine, using an underhand grip.\n\n<b>Execution</b>\n\nRest the bar on your thighs and slightly bend your arms. Slowly curl the bar up toward your chest, squeezing your biceps for a one-count. Slowly return to the start position and repeat.</string>
+    <string name="Zottman_curl">Zottman curl\n\n<b>Preparation</b>\n\nStand with a dumbbell in each hand as you would to begin a curl, with palms facing forward.\n\n<b>Execution</b>\n\nKeeping your elbows tight against your sides, curl the weights up as high as you can. Now turn your wrists over so that your palms face the floor (as in the top position of a reverse curl). Slowly lower your arms back to the starting position, turning your palms forward again at the bottom.</string>
+    
+    <string-array name="back_array">
+        <item>Back raise</item>
+        <item>Bar upright row</item>
+        <item>Barbell shrug</item>
+        <item>Deadlift</item>
+        <item>Hanging shrug</item>
+        <item>Lat pulldown</item>
+        <item>Low cable lift</item>
+        <item>Low machine row</item>
+	</string-array>
+	
+	<string name="Back_raise">Back raise\n\n<b>Preparation</b>\n\nHook your feet under the leg anchor of a back-machine station. With your upper thighs on the pad and your hands behind your head.\n\n<b>Execution</b>\n\nInitiate the move by forcefully squeezing your glutes, and then bend forward at the hips until your upper body is almost perpendicular to the floor. Without swinging your shoulders, raise your torso until it\'s in line with your lower body.</string>
+	<string name="Bar_upright_row">Bar upright row\n\n<b>Preparation</b>\n\nGrasp bar with shoulder width or slightly narrower overhand grip.\n\n<b>Execution</b>\n\nPull bar to neck with elbows leading. Allow wrists to flex as bar rises. Lower and repeat.</string>
+	<string name="Barbell_shrug">Barbell shrug\n\n<b>Preparation</b>\n\nStand holding barbell with overhand or mixed grip; shoulder width or slightly wider.\n\n<b>Execution</b>\n\nElevate shoulders as high as possible. Lower and repeat.</string>
+	<string name="Deadlift">Dead life\n\n<b>Preparation</b>\n\nWith feet flat beneath bar, squat down and grasp bar with shoulder width or slightly wider over hand or mixed grip.\n\n<b>Execution</b>\n\nLift bar by extending hips and knees to full extension. Pull shoulders back at top of lift if rounded. Return and repeat.</string>
+	<string name="Hanging_shrug">Hanging shrug\n\n<b>Preparation</b>\n\nFrom a hang position, you will relax and let your bodyweight settle in.\n\n<b>Execution</b>\n\nOnce you reach a relaxed stretched position, you will perform a reverse shrug. Basically, try to keep your arms straight and pull your shoulder blades down. This will pull your body up.</string>
+	<string name="Lat_pulldown">Lat pulldown\n\n<b>Preparation</b>\n\nGrasp cable bar with wide grip. Sit with thighs under supports.\n\n<b>Execution</b>\n\nPull down cable bar to upper chest. Return until arms and shoulders are fully extended. Repeat.</string>
+	  
+    <string-array name="chest_array">
+        <item>Burpee</item>
+        <item>Dumbbell bench press</item>
+        <item>Dumbbell fly</item>
+        <item>Lying cabel fly</item>
+        <item>One foot push up</item>
+        <item>Push up</item>
+    </string-array>
+    
+    <string name="Burpee">Burpee\n\n<b>Preparation</b>\n\nBegin in a standing position.\n\n<b>Execution</b>\n\nDrop into a squat position with your hands on the ground. Extend your feet back in one quick motion to assume the front plank position. Return to the squat position in one quick motion. Return to an upright standing position.</string>
+    <string name="Dumbbell_bench_press">Dumbbell bench press\n\n<b>Preparation</b>\n\nSit down on bench with dumbbells resting on lower thigh. Kick weights to shoulder and lie back. Position dumbbells to sides of chest with bent arm under each dumbbell.\n\n<b>Execution</b>\n\nPress dumbbells up with elbows to sides until arms are extended. Lower weight to sides of upper chest until slight stretch is felt in chest or shoulder. Repeat.</string>
+    <string name="Dumbbell_fly">Dumbbell fly\n\n<b>Preparation</b>\n\nGrasp two dumbbells. Lie supine on bench. Support dumbbells above chest with arms fixed in slightly bent position. Internally rotate shoulders so elbows point out to sides.\n\n<b>Execution</b>\n\nLower dumbbells to sides until chest muscles are stretched with elbows fixed in slightly bent position. Bring dumbbells together in hugging motion until dumbbells are nearly together. Repeat.</string>
+    <string name="Lying_cabel_fly">Lying cabel fly\n\n<b>Preparation</b>\n\nGrasp two opposing low pulley stirrup attachments. Lie supine on bench, in middle and perpendicular to both pulleys. Slightly bend elbows and internally rotate shoulders so elbows are back.\n\n<b>Execution</b>\n\nBring cable attachments together in hugging motion with elbows in fixed position and shoulders internally rotated so elbows are to sides. Return to starting position until slight stretch. Repeat.</string>
+    <string name="One_foot_push_up">One-foot push up\n\n<b>Preparation</b>\n\nAssume the standard push-up position, but place one foot on top of the other so only the lower foot is in contact with the ground.\n\n<b>Execution</b>\n\nBreathe in as you lower your torso to the ground, stopping when your elbows form a 90-degree angle and your chest is an inch or two from your hands. Keep your elbows close to your body. Breathe out as you push yourself up using your arms. Think of raising yourself by attempting to push the ground away from you. The power for the push will predominantly come from your shoulders and chest.</string>
+    
+    <string-array name="abdominal_array">
+    	<item>Bench plank</item>
+    	<item>Bicycle kick</item>
+    	<item>Clam</item>
+    	<item>Crunch twist</item>
+    	<item>Dumbbell bilateral twist</item>
+    	<item>Dumbbell side bend</item>
+    	<item>Half plank</item>
+    	<item>Incline crunch</item>
+    	<item>Negative sit-up</item>
+    	<item>Side crunch</item>
+    	<item>Table</item>
+    </string-array>
+    
+    <string name="Bicycle_kick">Bicycle kick\n\n<b>Preparation</b>\n\nLie on your back, and bend your knees at 90 degrees so that your thighs are pointing toward the ceiling. Place your hands behind your ears.\n\n<b>Execution</b>\n\nPump your legs back and forth, as if riding a bicycle. Simultaneously, rotate your torso from side to side by moving an armpit, but not elbow, up toward the opposite knee.</string>
+    <string name="Clam">Clam\n\n<b>Preparation</b>\n\nLie on your side with your knees bent and your feet in line with your spine. Place your head on a pillow.\n\n<b>Execution</b>\n\nWhile exhaling, keep your together and lift your top knee in an arc, without moving your pelvis. While inhaling, slowly lower your upper leg.</string>
+    <string name="Crunch_twist">Crunch twist\n\n<b>Preparation</b>\n\nLie on your back on the floor and raise your head and upper shoulders off the mat slightly. Lace your fingers from both hands together behind your inclined head for support while keeping your elbows wide apart. Do NOT bend your head toward your chest, keep it perpendicular to your torso but bend your knees 90 degrees, and raise your feet 1-2 inches off of the floor.\n\n<b>Execution</b>\n\nWhile twisting your torso to the left so that your right elbow moves toward your left knee, contract your stomach muscles. Ensure that you are lifting your left shoulder off the floor. At the height of the movement, pause, then slowly return to your starting position without relaxing your muscles. Alternate between leftward and rightward twists.</string>
+    <string name="Dumbbell_side_bend">Dumbbell side bend\n\n<b>Preparation</b>\n\nGrasp dumbbell with arm straight to side.\n\n<b>Execution</b>\n\nBend waist to opposite side of dumbbell until slight stretch is felt. Lower to opposite side same distance and repeat. Continue with opposite side.</string>
+    <string name="Incline_crunch">Incline crunch\n\n<b>Preparation</b>\n\nHook feet under foot brace and lie supine on incline board with hips bent. Place hands behind neck or head.\n\n<b>Execution</b>\n\nFlex waist to raise upper torso from bench. Keep low back on bench and raise torso up as high as possible. Return until back of shoulders contact incline board. Repeat.</string>
+    
+    <string-array name="hip_array">
+    	<item>Seated hip abduction</item>
+    	<item>Seated hip adduction</item>
+    	<item>Side lunge</item>
+    	<item>Standing hip abduction</item>
+    	<item>Standing hip adduction</item>
+    </string-array>
+    
+    <string name="Seated_hip_abduction">Seated hip abduction\n\n<b>Preparation</b>\n\nSit in machine with legs inside of side pads. If available, place heels on foot bars. Release and pull lever brace to position legs together. Engage lever into locked position. Lie back and grasp bars to sides.\n\n<b>Execution</b>\n\nMove legs appart as far as possible. Return and repeat.</string>
+    <string name="Seated_hip_adduction">Seated hip adduction\n\n<b>Preparation</b>\n\nSit in machine with legs outside of vertical center pads. If available, place heels on foot bars. Disengage and pull lever brace to position legs apart until slight stretch is felt. Engage lever into locked position. Lie back and grasp bars to sides.\n\n<b>Execution</b>\n\nMove legs together. Return and repeat.</string>
+    <string name="Side_lunge">Side lunge\n\n<b>Preparation</b>\n\nStand with dumbbells grasped to sides.\n\n<b>Execution</b>\n\nLunge to one side with first leg. Position closest dumbbell behind thigh and opposite dumbbell to front. Land on heel then forefoot. Lower body by flexing knee and hip of lead leg, keeping knee pointed same direction of foot. Return to original standing position by forcibly extending hip and knee of lead leg. Repeat by alternating lunge with opposite leg.</string>
+    <string name="Standing_hip_abduction">Standing hip abduction\n\n<b>Preparation</b>\n\n\n\n<b>Execution</b>\n\n</string>
+    <string name="Standing_hip_adduction">Standing hip adduction\n\n<b>Preparation</b>\n\n\n\n<b>Execution</b>\n\n</string>
+    
+    <string-array name="thigh_array">
+    	<item>Good morning</item>
+    	<item>Seated good morning</item>
+    	<item>Split cable squat</item>
+    	<item>Star squat</item>
+    	<item>Sumo squat</item>
+    </string-array>
+    
+    <string-array name="calf_array">
+    	<item>Dumbbell calf jump</item>
+    	<item>Hack calf raise</item>
+    	<item>Hack one leg calf raise</item>
+    	<item>Lying calf raise</item>
+    	<item>Machine calf raise</item>
+    	<item>Seated calf raise</item>
+    </string-array>
+</resources>

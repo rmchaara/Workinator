@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:id="@+id/scrollView1" 
+	android:layout_width="fill_parent" 
+	android:layout_height="fill_parent" 
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:background="@drawable/bbg">
+	<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+		android:layout_width="fill_parent" 
+		android:layout_height="fill_parent">
+		<Button android:id="@+id/btnSubmit"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content" 
+			android:layout_marginTop="80dp"
+			android:layout_centerHorizontal="true"
+			android:minWidth="180dip"
+			android:minHeight="70dip"
+			android:background="@drawable/custom"
+			android:text="Submit Workout"/>
+		<Button android:id="@+id/btnSearch" 
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content" 
+			android:layout_marginTop="50dp"
+			android:layout_centerHorizontal="true"
+			android:layout_below="@+id/btnSubmit"
+			android:minWidth="180dip"
+			android:minHeight="70dip"
+			android:background="@drawable/custom"
+			android:text="Search for Workout"/>
+		<Button android:id="@+id/btnView" 
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content" 
+			android:layout_marginTop="50dp"
+			android:layout_centerHorizontal="true"
+			android:layout_below="@+id/btnSearch"
+			android:minWidth="180dip"
+			android:minHeight="70dip"
+			android:background="@drawable/custom"
+			android:text="View Exercises"/>
+	</RelativeLayout>
+</ScrollView>
